@@ -93,9 +93,9 @@ android_app_import {
 }
 
 android_app_import {
-	name: "PowerOffAlarm",
+	name: "MotoDolbyV3",
 	owner: "xiaomi",
-	apk: "proprietary/system_ext/app/PowerOffAlarm/PowerOffAlarm.apk",
+	apk: "proprietary/system_ext/app/MotoDolbyV3/MotoDolbyV3.apk",
 	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
@@ -104,9 +104,9 @@ android_app_import {
 }
 
 android_app_import {
-	name: "MotoDolbyV3",
+	name: "PowerOffAlarm",
 	owner: "xiaomi",
-	apk: "proprietary/system_ext/app/MotoDolbyV3/MotoDolbyV3.apk",
+	apk: "proprietary/system_ext/app/PowerOffAlarm/PowerOffAlarm.apk",
 	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
